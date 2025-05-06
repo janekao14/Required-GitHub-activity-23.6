@@ -1,2 +1,3 @@
 If you are unable to complete this activity with your assigned group, you can complete it individually. In this instance, you will need to complete only the first step in the provided worksheet under the heading 'Creating a new repository.' 
+
 I plan to build a model to house price in London. (Chen-Chen Kao)
