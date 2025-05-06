@@ -1,1 +1,2 @@
+Complete individually
 I plan to build a model to house price in London. (Chen-Chen Kao)
